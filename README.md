@@ -73,11 +73,6 @@ Ethical Hacking	Understanding system vulnerabilities and defensive security
 
 ⸻
 
-🔗 View Repository
-
-⸻
-
-
 ## 📊 GitHub Statistics
 
 <p align="center">
