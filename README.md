@@ -75,22 +75,6 @@ Ethical Hacking	Understanding system vulnerabilities and defensive security
 
 🔗 View Repository
 
-📌 Project 02 — [Project Name]
-
-Technology: [Programming Languages / Tools]
-
-[Describe your project and its main features.]
-
-🔗 View Repository
-
-📌 Project 03 — [Project Name]
-
-Technology: [Programming Languages / Tools]
-
-[Describe your project, objectives, and implementation.]
-
-🔗 View Repository
-
 ⸻
 
 
