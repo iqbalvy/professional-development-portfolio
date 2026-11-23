@@ -154,13 +154,13 @@ Technology: [Programming Languages / Tools]
 I’m always open to connecting with fellow developers, technology enthusiasts, and people who share an interest in cybersecurity.
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/iqbalvy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/qr/AQA6aQ4DphubRrt6ZS4Nd9y-uN_G6JNXwpPFnz4Z0VOO7dYykvGo4kOnaTWq2Tlcvhm4IWIEq_x5KyMe1K_4b6QZ7ngZk6G7o78)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:iqbalhaikal750@gmai.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
