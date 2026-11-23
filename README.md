@@ -73,18 +73,6 @@ Ethical Hacking	Understanding system vulnerabilities and defensive security
 
 ⸻
 
-🚀 Featured Projects
-
-I’m currently building my technical foundation and looking forward to developing practical projects that demonstrate my skills.
-
-<!-- Replace these examples with your actual projects -->
-
-📌 Project 01 — [Project Name]
-
-Technology: [Programming Languages / Tools]
-
-[Write a short description of what the project does, the problem it solves, and what you learned.]
-
 🔗 View Repository
 
 📌 Project 02 — [Project Name]
