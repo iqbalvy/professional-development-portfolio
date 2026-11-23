@@ -171,15 +171,8 @@ I’m always open to connecting with fellow developers, technology enthusiasts, 
   <i>"The best way to predict the future is to create it."</i>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iqbalvy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
   **Thanks for visiting my profile! Let's learn, build, and innovate together. 🚀**
 </p>
-## About Me
-Hi! I am **Iqbal Haikal Bin Mohd Kamal**, a first-year student pursuing a **Bachelor of Computer Science (Computer Network & Security) with Honours ** at **Universiti Teknologi Malaysia (UTM)**. I am passionate about protecting digital infrastructure and understanding how modern network architectures operate. My career goal is to become a skilled Cybersecurity Analyst or Network Security Engineer capable of defending organizations against evolving cyber threats.
-
-## Skills & Interests
-* **Technical Skills:** Networking Fundamentals, Linux Basics, C++, Troubleshooting
-* **Professional Interests:** Network Security, Ethical Hacking & Penetration Testing, Digital Forensics, Cloud Security
-* **Current Learning Goals:** Mastering Git & GitHub version control, learning Wireshark and packet analysis, and preparing for foundational certifications (such as CompTIA Security+ or Cisco CCNA).
