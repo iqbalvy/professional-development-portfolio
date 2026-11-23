@@ -146,15 +146,6 @@ Currently Exploring
 </tr>
 </table>
 <br/>
-<!-- ==================== FEATURED PROJECTS ==================== -->
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">
-  A collection of my academic work, personal experiments and programming projects.
-</p>
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>01. 💻 [Project Name]</h3>
 
 [
 <a href="PROJECT_REPOSITORY_URL">
