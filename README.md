@@ -105,17 +105,36 @@ Technology: [Programming Languages / Tools]
 
 ⸻
 
-📊 GitHub Statistics
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=iqbalvy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Iqbal's GitHub Statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalvy&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Programming Languages"
+  />
 </p>
+
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    width="75%"
+    src="https://streak-stats.demolab.com?user=iqbalvy&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Contribution Activity" />
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalvy&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 ⸻
