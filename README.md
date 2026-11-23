@@ -122,7 +122,6 @@ Technology: [Programming Languages / Tools]
 
 🏆 Achievements & Highlights
 
-* 📖 Hafiz al-Quran — Successfully memorised all 30 Juzuk of the Quran.
 * 🎓 Foundation in Science — Completed foundation studies at UiTM Dengkil.
 * 💻 Computing Journey — Pursuing further studies in computing at UTM.
 * 🔐 Cybersecurity Aspirant — Actively exploring the field of cybersecurity and digital security.
