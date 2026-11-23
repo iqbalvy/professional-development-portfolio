@@ -156,53 +156,7 @@ Currently Exploring
 <td width="50%" valign="top">
 <h3>01. 💻 [Project Name]</h3>
 
-[Project Category]
-
-[Write a brief description of your project, its purpose and the problem it solves.]
-
-Technologies: [Your technologies]
-
-<a href="PROJECT_REPOSITORY_URL">
-  <img src="https://img.shields.io/badge/View-Repository-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-<td width="50%" valign="top">
-<h3>02. 🔐 [Project Name]</h3>
-
-Cybersecurity / Information Security
-
-[Describe your security-related project, its objectives and key features.]
-
-Technologies: [Your technologies]
-
-<a href="PROJECT_REPOSITORY_URL">
-  <img src="https://img.shields.io/badge/View-Repository-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03. 🌐 [Project Name]</h3>
-
-Networking / Computing
-
-[Describe your project and what you learned while developing it.]
-
-Technologies: [Your technologies]
-
-<a href="PROJECT_REPOSITORY_URL">
-  <img src="https://img.shields.io/badge/View-Repository-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-<td width="50%" valign="top">
-<h3>04. 🤖 [Project Name]</h3>
-
-Artificial Intelligence / Other
-
-[Describe your project, its functionality and intended application.]
-
-Technologies: [Your technologies]
-
+[
 <a href="PROJECT_REPOSITORY_URL">
   <img src="https://img.shields.io/badge/View-Repository-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
