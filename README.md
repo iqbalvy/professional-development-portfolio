@@ -6,4 +6,4 @@ Hi! I am **Iqbal Haikal Bin Mohd Kamal**, a first-year student pursuing a **Bach
 ## Skills & Interests
 * **Technical Skills:** Networking Fundamentals, Linux Basics, C++, Troubleshooting
 * **Professional Interests:** Network Security, Ethical Hacking & Penetration Testing, Digital Forensics, Cloud Security
-* **Current Learning Goals:** Mastering Git & GitHub version control, learning Wireshark and packet analysis, and preparing for foundational certifications (such as CompTIA Security+ or Cisco CCNA)!
+* **Current Learning Goals:** Mastering Git & GitHub version control, learning Wireshark and packet analysis, and preparing for foundational certifications (such as CompTIA Security+ or Cisco CCNA).
